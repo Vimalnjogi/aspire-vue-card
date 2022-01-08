@@ -1,12 +1,12 @@
 # vue-card
 
-npm -v
+npm -v  
 6.14.6
 
-node -v
+node -v  
 v12.18.3
 
-vue cli --version
+vue cli --version  
 @vue/cli 4.5.15
 
 ## Project setup

@@ -1,5 +1,8 @@
 # vue-card
 
+## Note:
+**All the points has been covered in the code out of all the points mentioned in the Vue.js code challange file except Mobile View.**
+
 ## Environment setup
 npm -v  
 6.14.6
